@@ -5,7 +5,6 @@
 
 int main(int argc, char const *argv[])
 {
-    
     void* context = zmq_ctx_new();
     void* respond = zmq_socket(context, ZMQ_REP);
     zmq_bind(respond, "tcp://*:4040");
