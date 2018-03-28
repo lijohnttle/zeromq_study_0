@@ -7,5 +7,12 @@
 			"path": "Server"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"czmq.h": "c",
+			"string.h": "c",
+			"stockexchangeserver.h": "c",
+			"stockexchangeclient.h": "c"
+		}
+	}
 }
