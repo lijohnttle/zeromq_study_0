@@ -1,4 +1,4 @@
-# zeromq_study_0
+# zeromq-study-0
 
 ## Description
 The simplest system of a client and a server that exchange messages.
